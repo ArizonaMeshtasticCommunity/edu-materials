@@ -2,6 +2,8 @@
 
 A browser presentation for the Arizona Meshtastic Community (AZMSH). The 17 slides cover setup, regional settings, channels, node roles, hardware prices, and community chats.
 
+Created by [logans-stuff](https://github.com/logans-stuff). Revamped by [tylerpieper](https://github.com/tylerpieper) with the dark theme, animated message flow, and updated hardware and community diagnostics.
+
 ## View the deck
 
 Open `AZMSH Getting Started.dc.html` in a browser. Keep `_ds/`, `assets/`, `deck-stage.js`, and `support.js` beside it.

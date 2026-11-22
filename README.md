@@ -52,6 +52,10 @@ For local server instructions and editing details, see the [presentation README]
 
 Add future resources in separate folders at the root, such as `brochure-getting-started/` or `guide-node-placement/`. Those folders have not been added yet.
 
+## Credits
+
+- Getting Started presentation: created by [logans-stuff](https://github.com/logans-stuff), revamped by [tylerpieper](https://github.com/tylerpieper) (dark theme, animated message flow, updated hardware and community diagnostics).
+
 ## Contributing
 
 Found a mistake? Open an issue or submit a pull request. For new materials:
